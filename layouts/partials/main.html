@@ -1,0 +1,51 @@
+        <table border=0 cellpadding=2 cellspacing=4 width=100% valign=top>
+            <tr>
+                <td width=20% valign=top id=text>
+                    <!-- Left List -->
+                    <h4><a href="https://hmjstudiosllc.com/">Main</a></h4>
+                    {{ range sort .Site.Pages }}
+                        {{ if eq "page" .Kind }}
+                        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                        {{ end }}
+                    {{ end }}
+                </td>
+
+                <td width=60% valign=top id=text>
+                    <!-- Center Data -->
+
+<br>Welcome to hmjStudios! My name is Heather Johnston and I am a piano teacher in
+Potomac Falls, VA. I'm a mom of one fantastic teenager, married my high school sweetheart, love animals, books, crochet, history....and, oh yes, MUSIC!
+<br><br>
+Music has been my lifelong passion. As a child and teen I
+pursued every musical opportunity I could find - church choirs, high school
+choirs, elite handbell groups, solo opportunities -  I wanted to be involved in
+everything! I decided to pursure my Music Education degree at Shenandoah
+Conservatory in Winchester, VA, which led to classroom teaching and,
+eventually, piano lessons. 
+<br>
+<br>
+I teach out of my home and welcome children ages 5 and up. The best moment of my teaching day is when everything clicks for a student and they realize that yes, they can do this, and yes, they are wonderful! Not every child is the same, we all learn differently, and I go to great effort to make sure I present information in the way that is best for the student. We may sit at the piano for the entire lesson, we may move around the room, and I have been known to use the stairs to explain the difference between high and low. I incorporate games, digital resources, and recordings to make music accessible to everyone who walks in my studio door.
+                </td>
+
+                <td width=10% valign=top id=text>
+                    &nbsp;   
+                </td>
+            </tr>
+            <tr>
+                <td width=10% valign=top id=text>
+                    &nbsp;   
+                </td>
+                <td width=60% valign=top id=text>
+                    <br>
+                    <br>
+                    <br>
+<!--
+-->
+                    <img width=30% src=/heather.jpg alt="Heather Johnston">
+                    <img width=50% src=/piano_room.jpg alt="Piano Studio">
+                </td>
+                <td width=10% valign=top id=text>
+                    &nbsp;   
+                </td>
+            </tr>
+        </table>

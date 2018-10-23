@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hmjStudios llc</title>
+    <!--    <link rel="stylesheet" url="css/custom.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway|Pacifico" rel="stylesheet">
+</head>
+<body>
+
+    <style>
+    #main {
+        font-family: 'Raleway', sans-serif;
+        content: "";
+        background: url(/background.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 20%;
+        opacity: 0.5;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;
+    }
+    </style>
+
+    <div id=main>
+    
+        <center><h1 style="font-family: 'Pacifico', cursive;">hmjStudios llc</h1></center>
+
+        <table border=0 cellpadding=0 width=100% valign=top>
+            <tr>
+                <td width=20% valign=top>
+                    <!-- Left List -->
+                    <h4><a href="http://hmjstudiosllc.com">Main</a></h4>
+                    {{ range first 10 .Data.Pages }}
+                        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    {{ end }}
+                </td>
+
+                <td width=60% valign=top>
+                    <!-- Center Data -->
+                    Welcome to hmjStudios llc. 
+                </td>
+
+                <td width=10% valign=top>
+                    <!-- Right Contact Info -->
+                    <u><h4>Contact Info</h4></u><br>
+                    Heather Johnston<br>
+                    <a href="mailto:hmjstudiosllc@gmail.com">hmjstudiosllc@gmail.com</a><br>
+                    Sterling, Virginia
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
+

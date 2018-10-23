@@ -1,0 +1,25 @@
+        <table border=0 cellpadding=2 cellspacing=4 width=100% valign=top>
+            <tr>
+                <td width=20% valign=top id=text>
+                    <h4><a href="https://hmjstudiosllc.com/">Main</a></h4>
+
+                    <!-- Left List -->
+                    {{ range sort .Site.Pages }}
+                        {{ if eq "page" .Kind }}
+                        <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                        {{ end }}
+                    {{ end }}
+                </td>
+
+                <td width=60% valign=top id=text>
+                    <!-- Center Data -->
+
+                    <u><h1>{{ .Title }}</h1></u>
+
+                    {{ .Content }}
+                </td>
+                <td width=10% valign=top id=text>
+                    &nbsp;
+                </td>
+            </tr>
+        </table>

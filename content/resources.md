@@ -1,0 +1,12 @@
++++
+date = "2018-10-01T00:00:00"
+draft = false
+
+# Order that this section will appear in.
+weight = 4
+
+title = "Resources"
+
++++
+
+This page will contain recommended resources for piano students and families.
