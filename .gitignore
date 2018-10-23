@@ -1,1 +1,6 @@
-themes/*
+themes
+public
+pub
+taxonomy
+*.swp
+.DS_Store
