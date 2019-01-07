@@ -43,7 +43,7 @@ exception of the summer months (see Summer Lessons below).
 </tr><tr>
 <td>June</td><td>10</td>
 </tr><tr>
-<td> No new students will be started in July and August</td>
+<td> No new students will be started in July and August</td></table>
 
 If the student does not reach the set number of lessons by August 31, 2019, I
 will offer a refund or credit in the amount of $27 per lesson.
