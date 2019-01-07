@@ -51,8 +51,8 @@ will offer a refund or credit in the amount of $27 per lesson.
 <br>
 ## Summer Lessons
 
-Summer lessons are the exception to the rule. If your child has reached 36
-lessons and you would like to purchase more, I am happy to discuss adding
+Summer lessons are the exception to the rule. If your child has reached their set number of lessons (based on the month that they begin)
+and you would like to purchase more, I am happy to discuss adding
 lessons in the schedule for a $27 charge per lesson. This will be billed in
 addition to the $90 monthly lesson fee. The monthly plan must continue to be
 paid through the end of August.
