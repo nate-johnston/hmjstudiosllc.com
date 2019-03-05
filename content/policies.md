@@ -66,7 +66,7 @@ will be:
 * September 29 @3pm
 * December 1 @3pm
 * February 2 @3pm
-* April 6 @3pm
+* March 30 @3pm
 * June 1 @3pm (tentative)
 
 ## Scheduling Conflict
