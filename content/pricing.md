@@ -35,15 +35,16 @@ exception of the summer months (see Summer Lessons below).
 </tr><tr>
 <td>February</td><td>23</td>
 </tr><tr>
-<td>March</td><td>20</td>
+<td>March</td><td>19</td>
 </tr><tr>
-<td>April</td><td>16</td>
+<td>April</td><td>15</td>
 </tr><tr>
 <td>May</td><td>13</td>
 </tr><tr>
-<td>June</td><td>10</td>
 </tr><tr>
-<td> No new students will be started in July and August</td></table>
+<td> 
+
+Students beginning in June, July, or August will be exempt from the subscription policy and will instead be charged $30 per lesson until the new term begins.</td></table>
 
 If the student does not reach the set number of lessons by August 31, 2019, I
 will offer a refund or credit in the amount of $27 per lesson.
