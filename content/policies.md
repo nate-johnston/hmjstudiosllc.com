@@ -29,7 +29,7 @@ room table or play with some of the toys I keep in a bin in the front room.
 Please be timely! That being said, do not bring your student more than 5
 minutes early (unless prearranged) and be prompt at the end of the lesson
 (again, unless prearranged). I do like to tell each parent how their child is
-progressing, and if you are late I cannot take time from the next student?s
+progressing, and if you are late I cannot take time from the next student's
 lesson.
 
 ## Practice
