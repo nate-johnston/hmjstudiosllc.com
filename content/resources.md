@@ -21,6 +21,29 @@ https://www.youtube.com/watch?v=ApGXujZVWf4&app=desktop
 How were keyboard instruments developed?
 https://www.youtube.com/watch?v=4uCCw_hmILA
 
+## Apps for Home Use
+These are all available on the Apple App Store, most of them for free. Each brings a particular skill set into focus and emphasizes some aspect either of piano playing or music in general. 
+
+Flashnote Derby
+https://apps.apple.com/us/app/flashnote-derby/id453126527
+
+Note Rush
+https://www.noterushapp.com
+
+Rhythm Swing
+https://apps.apple.com/us/app/rhythm-swing-fun-rhythm-drills-for-kids/id1007346233
+
+The Most Addicting Sheep Game Ever
+https://apps.apple.com/us/app/the-most-addicting-sheep-game/id550921301
+
+Staff Wars
+https://apps.apple.com/us/app/staffwars/id810405576
+
+Pro Metronome
+https://apps.apple.com/us/app/true/id477960671?preserveScrollPosition=true#?platform=ipad
+
+
+
 
 weight = 4
 
