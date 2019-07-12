@@ -30,4 +30,4 @@ Lessons are for 30 minutes one time per week.
 <br><br>
 <i><b>Do I need to have a piano to start lessons?</b></i><br>
 Short answer - no. Longer answer - yes. Let me explain....
-Your child will need to have an instrument to practice on as soon as possible. I am absolutely fine if your child has a keyboard (full sized keys, not a tiny keyboard) to start with. Depending on their progress, however, they will eventually need a fully weighted 88 key instrument with pedals. When that time comes I am happy to help find what best fits your family, whether that is a digital piano or the traditional accoustic piano.
+Your child will need to have an instrument to practice on as soon as possible. It is absolutely fine if your child has an electric keyboard (full sized keys, not a tiny keyboard) to start with. Depending on their progress, however, they will eventually need a fully weighted 88 key instrument with pedals. When that time comes I am happy to help find what best fits your family, whether that is a digital piano or the traditional accoustic piano.
