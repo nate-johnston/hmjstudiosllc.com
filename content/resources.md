@@ -1,6 +1,9 @@
 +++
 date = "2018-10-01T00:00:00"
 draft = false
+weight = 4
+title = "Resources"
++++
 
 # Piano Tuning
 Mary Beth Tawes of Melodic Pianos is wonderful - she is very talented when tuning your piano and she is respectful of your time and resources!
@@ -45,9 +48,6 @@ https://apps.apple.com/us/app/true/id477960671?preserveScrollPosition=true#?plat
 
 
 
-weight = 4
 
-title = "Resources"
 
-+++
 
