@@ -64,10 +64,9 @@ purchases will be discussed beforehand. I receive a slight discount at the
 music store so I will purchase the books and pass the discount price on to you.
 New books are needed approximately every 4-6 months in the beginning, and cost
 about $20 each time. With the more advanced students the frequency of books
-purchases decreases to about once a year but is slightly more expensive at $25
-- $30. If your child has an older sibling who has already begun piano lessons I
+purchases decreases to about once a year but is slightly more expensive at $25-$30. If your child has an older sibling who has already begun piano lessons I
 am happy to reuse their books (if they are at the appropriate age level) with
-the exception of the Theory book which must be purchased new.
+the exception of the Theory book which must be purchased new for every student.
 
 <br>
 ## Payment
