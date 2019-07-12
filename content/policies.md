@@ -63,11 +63,25 @@ but also proper audience manners. The children seem to enjoy this and often end
 up playing multiple times at each gathering. The dates for this school year
 will be:
 
-* September 29 @3pm
-* December 1 @3pm
-* February 2 @3pm
-* March 30 @3pm
-* June 1 @3pm (tentative)
+* October 5 @3pm
+* December 7 @3pm
+* February 1 @3pm
+* March 28 @3pm
+* June 6 @3pm (tentative)
+
+
+## Non-Teaching Days
+
+During the school year there are certain days I do not teach either due to national holidays or personal commitments. See below:
+September 2 - Labor Day
+October 14 - Coulmbus Day
+November 28 and 29 - Thanksgiving
+December 18 through January 3 - Winter Break
+January 20 - Martin Luther King Jr. Day
+February 17 - Presidents Day
+April 6 through 10 - Spring Break
+May 25 - Memorial Day
+
 
 ## Scheduling Conflict
 
