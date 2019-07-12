@@ -28,4 +28,3 @@ title = "Resources"
 
 +++
 
-This page will contain recommended resources for piano students and families.
