@@ -11,8 +11,7 @@ title = "Lesson Policies"
 
 ## Attendance
 
-Lesson attendance is very important. At the beginning of every school year I
-will send out a Google form asking for student availability. I understand
+At the beginning of every school year I will send out a Google form asking for student availability. I understand
 sports schedules change from season to season, and will communicate with the
 parents to find a time that works for each student. Be sure to keep your
 child's weekly piano lesson times clear of other appointments. If you forget about your child's lesson that lesson time will not be made up and the fee for that lesson will be forfeited.
@@ -73,14 +72,15 @@ will be:
 ## Non-Teaching Days
 
 During the school year there are certain days I do not teach either due to national holidays or personal commitments. See below:
-September 2 - Labor Day
-October 14 - Coulmbus Day
-November 28 and 29 - Thanksgiving
-December 18 through January 3 - Winter Break
-January 20 - Martin Luther King Jr. Day
-February 17 - Presidents Day
-April 6 through 10 - Spring Break
-May 25 - Memorial Day
+
+* September 2 - Labor Day
+* October 14 - Columbus Day
+* November 28 and 29 - Thanksgiving
+* December 18 through January 3 - Winter Break
+* January 20 - Martin Luther King Jr. Day
+* February 17 - Presidents Day
+* April 6 through 10 - Spring Break
+* May 25 - Memorial Day
 
 
 ## Scheduling Conflict
