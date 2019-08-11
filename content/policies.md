@@ -42,16 +42,14 @@ practice before school. Do they need a break from school in the afternoons?
 Have them practice, it will help stimulate another part of their brain.
 
 I will always write down what is to be
-practiced. You will need to provide a notebook for assignments, preferably
-something fun that they will like. Feel free to reuse any notebooks you have
-around the house, preferably 5"x7" or larger. 
+practiced. At their first lesson I will provide a notebook for their assignments. Not only is this a place for recording their practice responsibilities, it is also a great place for them to collect stickers given out for good practice or a great lesson. Please have them bring it tomevery lesson!
 
 Practicing the evening of or the day after a lesson is very important. Your
 child will get the maximum benefit from their lesson if they take the time to
 reproduce at home what they learned in the lesson while it is still fresh in their minds.
 
 All books and notebooks need to be brought to every piano lesson unless
-previously discussed!
+previously discussed. I suggest using a backpack, string bag, or tote bag to help keep everything together. When packing up for a lesson, please check the piano for any books used for practice. I do not keep extra books for every student on hand!
 
 ## Piano Studio Class
 
