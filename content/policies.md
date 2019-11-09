@@ -92,11 +92,11 @@ but there are very, very few opportunities in the weekly schedule this year.
 
 Sick kids! I go by typical school rules: if they can't go to school, they can't
 come to lessons. Children must be fever/vomit free for 24 hours in order to
-return to lessons.<i>Do not bring a sick child to piano lessons!</i> Let me know as soon as you can and we can work on
+return to lessons. <i>Do not bring a sick child to piano lessons!</i> Let me know as soon as possible and we will work on
 rescheduling the lesson. 
 
 Emergencies happen. As with sick kids, if there is an emergency, please let me
-know as soon as you can and we will either work around it or work on
+know as soon as possible and we will either work around it or work on
 rescheduling that week.
 
 Snow days in Loudoun are a bit of a gray area. I usually text with parents the
