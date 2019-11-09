@@ -27,7 +27,7 @@ exception of the summer months (see Summer Lessons below).
 </tr><tr>
 <td>October</td><td>36</td>
 </tr><tr>
-<td>November</td><td>33</td>
+<td>November</td><td>32</td>
 </tr><tr>
 <td>December</td><td>30</td>
 </tr><tr>
