@@ -27,6 +27,7 @@ https://www.youtube.com/watch?v=4uCCw_hmILA
 Science says music lessons are the best thing you can do for your child.
 https://www.mic.com/articles/110628/13-scientific-studies-prove-music-lessons-were-the-best-thing-your-parents-did-for-you?utm_term=share
 
+https://www.psychologytoday.com/us/blog/the-athletes-way/201906/music-participation-is-linked-teens-academic-achievement
 ## Apps for Home Use
 These are all available on the Apple App Store, most of them for free. Each brings a particular skill set into focus and emphasizes some aspect either of piano playing or music in general. 
 
