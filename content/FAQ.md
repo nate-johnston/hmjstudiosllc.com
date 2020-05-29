@@ -11,7 +11,7 @@ title = "Frequently Asked Questions"
 
 <br>
 <i><b>Do you teach lessons online?</b></i>
-I have recently expanded my studio to include teaching lessons online using either Zoom or FaceTime. For the immediate future I will be teaching this way exclusively. This method has its own positives and negatives but it is an excellent way to continue connecting with my students while there is so much uncertainty. 
+I have recently expanded my studio to include teaching lessons online using either Zoom or FaceTime. For the immediate future I will be teaching this way exclusively. This method has its own positives and negatives but it is an excellent way to continue connecting with my students while there is so much uncertainty. After this  current crisis passes, I plan to continue to offer lessons this way as an option for days when there is inclement weather, transportation issues, or sickness.
 
 <i><b>Do you teach adults?</b></i><br>
 While I would be happy to share music with everyone, my studio is more geared toward children than adults.                   
