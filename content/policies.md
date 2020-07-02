@@ -20,16 +20,13 @@ In the summer I will work with each family to find times that work well for all
 parties. Family vacations and summer opportunities are important and I try to
 be more flexible when school is not in session.
 
-Parents are always welcome to stay, and especially with younger students I do
-encourage them to do so until their child is comfortable. If you have other
-children who will be with you, they are welcome to do homework at the dining
-room table or play with some of the toys I keep in a bin in the front room.
+<b><u>Online Lessons</b></u>
+<br>
+Piano lessons are currently <u>only</u> being offered via FaceTime and Zoom. I am not certain when I will begin having students in my home again, but I will be watching other teachers, the school system decisions, and the CDC guidelines. While this is not my preference it is certainly in everyone's best interests at this time.
 
-Please be timely! That being said, do not bring your student more than 5
-minutes early (unless prearranged) and be prompt at the end of the lesson
-(again, unless prearranged). I do like to tell each parent how their child is
-progressing, and if you are late I cannot take time from the next student's
-lesson.
+At the time of your child's lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student's lesson when the next student dials in.
+<br>
+
 
 ## Practice
 
@@ -42,58 +39,58 @@ practice before school. Do they need a break from school in the afternoons?
 Have them practice, it will help stimulate another part of their brain.
 
 I will always write down what is to be
-practiced. At their first lesson I will provide a notebook for their assignments. Not only is this a place for recording their practice responsibilities, it is also a great place for them to collect stickers given out for good practice or a great lesson. Please have them bring it tomevery lesson!
+practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
 
 Practicing the evening of or the day after a lesson is very important. Your
 child will get the maximum benefit from their lesson if they take the time to
-reproduce at home what they learned in the lesson while it is still fresh in their minds.
+reproduce on their own what they learned in the lesson while it is still fresh in their minds.
 
-All books and notebooks need to be brought to every piano lesson unless
-previously discussed. I suggest using a backpack, string bag, or tote bag to help keep everything together. When packing up for a lesson, please check the piano for any books used for practice. I do not keep extra books for every student on hand!
+All books, notebooks, and extra handouts need to be available for every piano lesson unless
+previously discussed. I suggest using a backpack, string bag, bin, or tote bag to help keep everything together.  
 
 ## Piano Studio Class
 
-Several times a year I host a piano studio class for students in my home. It is
+Several times a year I host a piano studio class for students. This has also moved to a virtual platform and I divide the kids in to smaller groups to play for each other via Zoom. It is
 not required, however, I do encourage all students to attend. Each student will
 play for the others, teaching them not only confidence and performance skills
 but also proper audience manners. The children seem to enjoy this and often end
-up playing multiple times at each gathering. The dates for this school year
-will be:
+up playing multiple times at each gathering. The dates for this school year are tentatively:
 
-* October 5 @3pm
-* December 7 @3pm
-* February 1 @3pm
-* March 28 @3pm
-* June 6 @3pm (tentative)
+* October 3
+* December 5
+* February 6
+* April 10
+* June 5
 
 
 ## Non-Teaching Days
 
 During the school year there are certain days I do not teach either due to national holidays or personal commitments. See below:
 
-* September 2 - Labor Day
-* October 14 - Columbus Day
-* November 28 and 29 - Thanksgiving
-* December 18 through January 3 - Winter Break
-* January 20 - Martin Luther King Jr. Day
-* February 17 - Presidents Day
-* April 6 through 10 - Spring Break
-* May 25 - Memorial Day
+* September 7 - Labor Day
+* October 12 - Columbus Day
+* November 26 and 27 - Thanksgiving
+* December 19 through January 3 - Winter Break
+* January 18 - Martin Luther King Jr. Day
+* February 15 - Presidents Day
+* March 29 - April 3 - Spring Break
+* May 31 - Memorial Day
 
 
 ## Scheduling Conflict
 
-If you have a lesson time conflict, let me know with at least  24 hours notice.
+If you have a lesson time conflict, let me know with at least 24 hours notice.
 Failure to notify me of a conflict will result in a forfeiture of the lesson
 fee. I will do my best to find a makeup time if something unavoidable arises
 but there are very, very few opportunities in the weekly schedule this year.
 
 ## The Exceptions
 
+***Most of this will apply when we are back in person for lessons. With any of these exceptions, we can move back to a virtual lesson as necessary for sickness or snow.***
+
 Sick kids! I go by typical school rules: if they can't go to school, they can't
 come to lessons. Children must be fever/vomit free for 24 hours in order to
-return to lessons. <i>Do not bring a sick child to piano lessons!</i> Let me know as soon as possible and we will work on
-rescheduling the lesson. 
+return to lessons. <i>Do not bring a sick child to piano lessons!</i> Let me know as soon as possible and we will work on rescheduling the lesson. 
 
 Emergencies happen. As with sick kids, if there is an emergency, please let me
 know as soon as possible and we will either work around it or work on
