@@ -86,7 +86,7 @@ but there are very, very few opportunities in the weekly schedule this year.
 
 ## The Exceptions
 
-***Most of this will apply when we are back in person for lessons. With any of these exceptions, we can move back to a virtual lesson as necessary for sickness or snow.***
+***Most of this will apply when we are back in person for lessons. With any of these exceptions, we can move back to a virtual lesson as necessary for sickness or weather.***
 
 Sick kids! I go by typical school rules: if they can't go to school, they can't
 come to lessons. Children must be fever/vomit free for 24 hours in order to
