@@ -42,17 +42,17 @@ exception of the summer months (see Summer Lessons below).
 </tr><tr>
 <td> 
 
-Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $28.50 per lesson until the new term begins. No new students will begin in August.</td></table>
+Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $29 per lesson until the new term begins. No new students will begin in August.</td></table>
 
 If the student does not reach the set number of lessons by August 31, 2021, I
-will offer a refund or credit in the amount of $28.50 per lesson.
+will offer a refund or credit in the amount of $29 per lesson.
 
 <br>
 ## Summer Lessons
 
 Summer lessons are the exception to the rule. If your child has reached their set number of lessons (based on the month that they begin)
 and you would like to purchase more, I am happy to discuss adding
-lessons in the schedule for a $28.50 charge per lesson. This will be billed in
+lessons in the schedule for a $29 charge per lesson. This will be billed in
 addition to the $95 monthly lesson fee. The monthly plan must continue to be
 paid through the end of August.
 
@@ -83,20 +83,22 @@ parties. I highly recommend using the auto check  service.
 ## Discontinuing Lessons
 
 If your child stops taking piano lessons during the term, the number of lessons
-taken will be totaled and multiplied by $28.50 per lesson, then compared against
+taken will be totaled and multiplied by $29 per lesson, then compared against
 the amount paid. A refund will be issued or further payment will be needed.
 
 Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
 
-* 16 lessons x $28.50 per lesson = $456
+* 16 lessons x $28.50 per lesson = $464
 * 4 months x $95 per month = $380
-* The parent still owes $76.
+* The parent still owes $84.
 
 Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
 
-* 22 lessons x $28.50 per lesson = $627
+* 22 lessons x $29 per lesson = $638
 * 7 months x $95 per month =$665
-* The parent receives a $38 refund.
+* The parent receives a $27 refund.
 <br>
 <br>
+<br>
+<i>All pricing is effective September 1, 2020. Please email for any pricing questions before that time.</i>
 <br>
