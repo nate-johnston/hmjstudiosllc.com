@@ -17,7 +17,6 @@ I have recently expanded my studio to include teaching lessons online using eith
 <i><b>Do you teach adults?</b></i><br>
 While I would be happy to share music with everyone, my studio is more geared toward children than adults.                   
 <br>
-<br>
 <i><b>Do you travel teach? Will you drive to my house?</b></i><br>
 I do not travel to my students since I have an enormous amount of music, games, and materials available in my studio. When I see that a particular way of introducing a subject isn't working, I can easily pull out something else to better reach the student. Until I start driving an RV and can bring
  everything with me I am not set up to teach away from my studio. 
