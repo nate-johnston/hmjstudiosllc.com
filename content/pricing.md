@@ -88,7 +88,7 @@ the amount paid. A refund will be issued or further payment will be needed.
 
 Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
 
-* 16 lessons x $28.50 per lesson = $464
+* 16 lessons x $29 per lesson = $464
 * 4 months x $95 per month = $380
 * The parent still owes $84.
 
