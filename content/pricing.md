@@ -84,7 +84,7 @@ parties. I highly recommend using the auto check  service.
 
 If your child stops taking piano lessons during the term, the number of lessons
 taken will be totaled and multiplied by $29 per lesson, then compared against
-the amount paid. A refund will be issued or further payment will be needed.
+the amount paid. A refund will be issued or further payment will be needed. 
 
 Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
 
@@ -98,6 +98,8 @@ Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
 * 7 months x $95 per month =$665
 * The parent receives a $27 refund.
 <br>
+<br>
+Please allow thirty days notice for termination of lessons.
 <br>
 <br>
 <i>All pricing is effective September 1, 2020. Please email for any pricing questions before that time.</i>
