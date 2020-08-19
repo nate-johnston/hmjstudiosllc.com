@@ -6,8 +6,7 @@ title = "Resources"
 +++
 
 # Piano Tuning
-Mary Beth Tawes of Melodic Pianos is wonderful - she is very talented when tuning your piano and she is respectful of your time and resources!
-http://melodicpianos.com
+My long-time piano tuner has recently moved to Florida. I will be looking at the person she recommended and will list them here when I can do so based on personal experience.
 
 ## Sheet Music for Fun
 I use SheetMusicDirect.com for single songs ( https://www.sheetmusicdirect.com/en-US/ )
