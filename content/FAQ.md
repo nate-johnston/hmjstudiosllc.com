@@ -27,11 +27,11 @@ Of course! I even have an extra digital piano in my front room for one child to 
 <br>
 <br>
 <i><b>How long should my child practice?</b></i><br>
-Practice is incredibly important. I would like every student to practice at least 5 days a week, 15-30 minutes for the younger children and 30 minutes to one hour for older, more advanced students. I encourage students to find a regular time every day to practice so that it becomes part of their routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. 
+Practice is incredibly important. I would like every student to practice at least 4-5 days a week, 15-20 minutes for the younger children and 30 minutes to one hour for older, more advanced students. I encourage students to find a regular time every day to practice so that it becomes part of their routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. 
 <br>
 <br>
 <i><b>Do you take PayPal, ApplePay or Vimeo?</b></i><br>
-I accept cash or checks and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is due by the 7th of every month.
+I accept cash, checks, or Zelle, and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is due by the 7th of every month.
 <br>
 <br>
 <i><b>How often are lessons?</b></i><br>
