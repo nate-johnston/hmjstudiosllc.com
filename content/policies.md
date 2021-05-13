@@ -31,7 +31,7 @@ At the time of your child's lesson, I will either dial them via FaceTime or be a
 ## Practice
 
 Practice is incredibly important. I would like every
-student to practice at least 5 days a week, 15-30 minutes for the younger
+student to practice at least 4-5 days a week, 15-20 minutes for the younger
 children and 30 minutes to one hour for older, more advanced students. I
 encourage students to find a regular time every day to practice so that it
 becomes part of their routine. Is your child an early bird? Encourage them to
@@ -98,6 +98,6 @@ rescheduling that week.
 
 Snow days in Loudoun are a bit of a gray area. I usually text with parents the
 day of the lesson if weather is dangerous. Since we live on a hill with a very
-steep driveway,  I tend to be very cautious.
+steep driveway,  I tend to be very cautious. That day might be a good opportunity to switch to online lessons.
 
 
