@@ -12,7 +12,7 @@ title = "Tuition and Fees"
 <br>
 
 I charge $95 a month per student. This entitles each student to a set number of
-lessons based on the starting month and ending August 31, 2021. I will keep
+lessons based on the starting month and ending August 31, 2022. I will keep
 track of the number of lessons each student has received and will provide the
 number via email each month. Some months may have 5 lessons, other months may
 have 2 lessons. The cost each month will always be $95 with the possible
