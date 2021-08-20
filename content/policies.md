@@ -9,95 +9,57 @@ title = "Lesson Policies"
 
 +++
 
+## Lesson Formats
+
+I am currently offering in person or virtual lessons (online). There may be times that one format or another will work better. Please text me before lesson time if there is a need for a "location" change. 
+
+
+## Online Lessons
+
+At the time of your child’s lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student’s lesson when the next student dials in. I will always write down what is to be practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
+
 ## Attendance
 
-At the beginning of every school year I will send out a Google form asking for student availability. I understand
-sports schedules change from season to season, and will communicate with the
-parents to find a time that works for each student. Be sure to keep your
-child's weekly piano lesson times clear of other appointments. If you forget about your child's lesson that lesson time will not be made up and the fee for that lesson will be forfeited.
+At the beginning of every school year I send out a Google form asking for student availability, which I then use to set up the master schedule. I understand schedules change from season to season, and will communicate with the parents to find a time that works for each student. Be sure to keep your child’s weekly piano lesson times in mind when you schedule dental and medical appointments.
 
-In the summer I will work with each family to find times that work well for all
-parties. Family vacations and summer opportunities are important and I try to
-be more flexible when school is not in session.
+Piano lessons are a commitment between student, family, and teacher. I will do my very best to work with you when there are conflicts but advanced notice is necessary. If you have a lesson time conflict, let me know with at least 24 hours notice. Failure to notify me of a conflict (and then an absence) will result in a forfeiture of the lesson fee. If you forget about your child’s lesson that lesson time will not be made up and the fee for that lesson will be forfeited.  I will do my best to find a makeup time if something unavoidable arises but there are very, very few opportunities in the weekly schedule.
 
-<b><u>Online Lessons</b></u>
-<br>
-Piano lessons are currently <u>only</u> being offered via FaceTime and Zoom. I am not certain when I will begin having students in my home again, but I will be watching other teachers, the school system decisions, and the CDC guidelines. While this is not my preference it is certainly in everyone's best interests at this time.
+Please be timely! That being said, do not bring your student more than 5 minutes early (unless prearranged) and be prompt at the end of the lesson (again, unless prearranged).
 
-At the time of your child's lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student's lesson when the next student dials in.
-<br>
+
+## The Exceptions
+
+Sick kids! I go by typical school rules: if they can’t go to school, they can’t come to lessons whether due to sickness or quarantine protocols. If your child is quarantining from school, they are also quarantining from piano lessons. Children must be symptom free for 24 hours in order to return to lessons. Do not bring a sick child to piano! Let me know as soon as you can and we will convert to the online option that week or reschedule altogether.
+
+Emergencies happen. As with sick kids, if there is an emergency, please let me know as soon as you can and we will either work around it or work on rescheduling that week.
+
+Snow days in Loudoun are a bit of a gray area. I usually text with parents the day of the lesson if weather is dangerous. Since we live on a hill with a very steep driveway, I tend to be very cautious and will convert to online lessons if it would be dangerous to meet in person.
 
 
 ## Practice
 
-Practice is incredibly important. I would like every
-student to practice at least 4-5 days a week, 15-20 minutes for the younger
-children and 30 minutes to one hour for older, more advanced students. I
-encourage students to find a regular time every day to practice so that it
-becomes part of their routine. Is your child an early bird? Encourage them to
-practice before school. Do they need a break from school in the afternoons?
-Have them practice, it will help stimulate another part of their brain.
+Practice is incredibly important. I would like every student to practice at least 5 days a week, 10-20 minutes for the younger children and 30 minutes to one hour for older, more advanced students. I encourage students to find a regular time every day to practice so that it becomes part of their routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. Practicing the evening of or the day after a lesson is very important. Your child will get the maximum benefit from their lesson if they take the time to reproduce on their own what they learned in the lesson while it is still fresh in their minds.
 
-I will always write down what is to be
-practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
+For in person students I will provide a notebook and will use it to write down assignments. I always review expectations and practice goals with the students during their lesson time. All books, notebooks, and extra handouts need to be available for every piano lesson unless previously discussed. I suggest using a backpack, string bag, bin, or tote bag to help keep everything together.
 
-Practicing the evening of or the day after a lesson is very important. Your
-child will get the maximum benefit from their lesson if they take the time to
-reproduce on their own what they learned in the lesson while it is still fresh in their minds.
 
-All books, notebooks, and extra handouts need to be available for every piano lesson unless
-previously discussed. I suggest using a backpack, string bag, bin, or tote bag to help keep everything together.  
+## Virtual Recital
 
-## Piano Studio Class
+In November/December and again in April/May I will be creating an online recital. Ideally, each student will come to their lesson on a specific week dressed as if they are performing for a recital. I do not have a dress code for this, it really comes down to what the parents and students agree their attire should be. If a student is taking lessons virtually, I will ask parents to record the student's performance and send it to me. I will then post each of these performances on a private YouTube channel and will share the link with each family. This could then be shared with extended family members as well. 
 
-Several times a year I host a piano studio class for students. This has also moved to a virtual platform and I divide the kids in to smaller groups to play for each other via Zoom. It is
-not required, however, I do encourage all students to attend. Each student will
-play for the others, teaching them not only confidence and performance skills
-but also proper audience manners. The children seem to enjoy this and often end
-up playing multiple times at each gathering. The dates for this school year are tentatively:
-
-* October 3
-* December 5
-* February 6
-* April 10
-* June 5
+If you would prefer your child's face not be shown I can always record them from the back or just record their hands. This is a work in progress!
 
 
 ## Non-Teaching Days
 
 During the school year there are certain days I do not teach either due to national holidays or personal commitments. See below:
 
-* September 7 - Labor Day
-* October 12 - Columbus Day
-* November 26 and 27 - Thanksgiving
-* December 19 through January 3 - Winter Break
-* January 18 - Martin Luther King Jr. Day
-* February 15 - Presidents Day
-* March 29 - April 3 - Spring Break
-* May 31 - Memorial Day
-
-
-## Scheduling Conflict
-
-If you have a lesson time conflict, let me know with at least 24 hours notice.
-Failure to notify me of a conflict will result in a forfeiture of the lesson
-fee. I will do my best to find a makeup time if something unavoidable arises
-but there are very, very few opportunities in the weekly schedule this year.
-
-## The Exceptions
-
-***Most of this will apply when we are back in person for lessons. With any of these exceptions, we can move back to a virtual lesson as necessary for sickness or weather.***
-
-Sick kids! I go by typical school rules: if they can't go to school, they can't
-come to lessons. Children must be fever/vomit free for 24 hours in order to
-return to lessons. <i>Do not bring a sick child to piano lessons!</i> Let me know as soon as possible and we will work on rescheduling the lesson. 
-
-Emergencies happen. As with sick kids, if there is an emergency, please let me
-know as soon as possible and we will either work around it or work on
-rescheduling that week.
-
-Snow days in Loudoun are a bit of a gray area. I usually text with parents the
-day of the lesson if weather is dangerous. Since we live on a hill with a very
-steep driveway,  I tend to be very cautious. That day might be a good opportunity to switch to online lessons.
-
-
+* September 6 - Labor Day
+* October 11 - Indigenous Peoples Day
+* November 19 - AVGE (personal)
+* November 24-26 - Thanksgiving
+* December 20 through January 2 - Winter Break
+* January 17 - Martin Luther King Jr. Day
+* February 21 - Presidents Day
+* April 11-15 - Spring Break
+* May 30 - Memorial Day
