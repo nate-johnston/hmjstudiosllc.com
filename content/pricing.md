@@ -11,12 +11,7 @@ title = "Tuition and Fees"
 
 <br>
 
-I charge $95 a month per student. This entitles each student to a set number of
-lessons based on the starting month and ending August 31, 2022. I will keep
-track of the number of lessons each student has received and will provide the
-number via email each month. Some months may have 5 lessons, other months may
-have 2 lessons. The cost each month will always be $95 with the possible
-exception of the summer months (see Summer Lessons below).
+I charge $95 per month per student for 30 minute lessons, $140 per month per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2022. I will keep track of the number of lessons each student has received and will provide the number via email each month. Some months may have 5 lessons, other months may have 2 lessons. The cost each month will always be $95 or $140 (depending on lesson length) with the possible exception of the summer months (see Summer Lessons below).
 
 <table border=0 cellpadding=2 cellspacing=1>
 <tr>
