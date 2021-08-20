@@ -44,7 +44,7 @@ exception of the summer months (see Summer Lessons below).
 
 Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $29 per lesson until the new term begins. No new students will begin in August.</td></table>
 
-If the student does not reach the set number of lessons by August 31, 2021, I
+If the student does not reach the set number of lessons by August 31, 2022, I
 will offer a refund or credit in the amount of $29 per lesson.
 
 <br>
@@ -59,19 +59,12 @@ paid through the end of August.
 <br>
 ## Materials Fees
 
-Parents are also responsible for either purchasing or reimbursing any new book/music fees. New book
-purchases will be discussed beforehand. I receive a slight discount at the
-music store so when possible I will purchase the books and pass the discount price on to you. If we are still in an online environment, I will send you links to Amazon for the proper books. 
-New books are needed approximately every 4-6 months in the beginning, and cost
-about $20-$25 each time. With the more advanced students the frequency of books
-purchases decreases to about once a year but is slightly more expensive at $25-$30. If your child has an older sibling who has already begun piano lessons I
-am happy to reuse their books (if they are at the appropriate age level) with
-the exception of the Theory book which must be purchased new for every student.
+Parents are also responsible for either purchasing or reimbursing any new book/music fees. New book purchases will be discussed beforehand. Where possible I will send you links to Amazon for the proper books. New books are needed approximately every 4-6 months in the beginning, and cost about $20-$25 each time. With the more advanced students the frequency of books purchases decreases to about once a year but is slightly more expensive at $25-$30. If your child has an older sibling who has already begun piano lessons I am happy to reuse their books (if they are at the appropriate age level) with the exception of the Theory book which must be purchased new for every student.
 
 <br>
 ## Payment
 
-Payment is due by the 7th of every month. The last week of each month I will
+Payment must be received by the 7th of every month. The last week of each month I will
 send a digital bill via email with the lesson dates for the upcoming month as
 well as any book charges. For example, the September bill will be sent to each
 parent the last week of August. Payment will then be due by September 7th. I
@@ -102,5 +95,5 @@ Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
 Please allow thirty days notice for termination of lessons.
 <br>
 <br>
-<i>All pricing is effective September 1, 2020. Please email for any pricing questions before that time.</i>
+<i>All pricing is effective September 1, 2021. Please email for any pricing questions before that time.</i>
 <br>
