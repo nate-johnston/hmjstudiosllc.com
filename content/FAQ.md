@@ -31,7 +31,7 @@ Practice is incredibly important. I would like every student to practice at leas
 <br>
 <br>
 <i><b>Do you take PayPal, ApplePay or Vimeo?</b></i><br>
-I accept cash, checks, or Zelle, and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is due by the 7th of every month.
+I accept cash, checks, Venmo, or Zelle, and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is due by the 7th of every month.
 <br>
 <br>
 <i><b>How often are lessons?</b></i><br>
