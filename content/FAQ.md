@@ -11,7 +11,7 @@ title = "Frequently Asked Questions"
 
 <br>
 <i><b>Do you teach lessons online?</b></i><br>
-I have recently expanded my studio to include teaching lessons online using either Zoom or FaceTime. For the immediate future, I will be teaching this way exclusively. This method has its own positives and negatives but it is an excellent way to connect with my students while there is so much uncertainty. After this  current crisis passes, I plan to continue offering lessons this way as an option for days when there is inclement weather, transportation issues, or sickness.
+I offer in person as well as online lessons using either FaceTime or Zoom. This method has its own positives and negatives but it is an excellent way to connect with my students when there is inclement weather, transportation issues, or sickness. I am also willing to have this be the main method of teaching if it works best for the family. At the end of the day it is all about connecting and making music accessible to as many people as possible.  
 <br>
 <br>
 <i><b>Do you teach adults?</b></i><br>
@@ -31,11 +31,11 @@ Practice is incredibly important. I would like every student to practice at leas
 <br>
 <br>
 <i><b>Do you take PayPal, ApplePay or Vimeo?</b></i><br>
-I accept cash, checks, Venmo, or Zelle, and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is due by the 7th of every month.
+I accept cash, checks, Venmo, or Zelle, and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is <u>due</u> by the 7th of every month.
 <br>
 <br>
 <i><b>How often are lessons?</b></i><br>
-Lessons are for 30 minutes one time per week. As students progress I may consider moving them to a 45 minute lesson.
+Lessons are for 30 minutes one time per week. As students progress I may consider moving them to a 45 minute lesson, pending conversation with parents and students.
 <br>
 <br>
 <i><b>Do I need to have a piano to start lessons?</b></i><br>
