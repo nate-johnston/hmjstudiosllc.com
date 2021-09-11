@@ -11,7 +11,7 @@ title = "Frequently Asked Questions"
 
 <br>
 <i><b>Do you teach lessons online?</b></i><br>
-I offer in person as well as online lessons using either FaceTime or Zoom. This method has its own positives and negatives but it is an excellent way to connect with my students when there is inclement weather, transportation issues, or sickness. I am also willing to have this be the main method of teaching if it works best for the family. At the end of the day it is all about connecting and making music accessible to as many people as possible.  
+I offer in person as well as online lessons using either FaceTime or Zoom. This method has its own positives and negatives but it is an excellent way to connect with my students when there is inclement weather, a transportation issue, or sickness. I am also willing to have this be the main method of teaching if it works best for the family. At the end of the day, it is all about making music accessible to as many people as possible.  
 <br>
 <br>
 <i><b>Do you teach adults?</b></i><br>
