@@ -28,7 +28,7 @@ I charge $95 per month per student for 30 minute lessons, $140 per month per stu
 </tr><tr>
 <td>January</td><td>26</td>
 </tr><tr>
-<td>February</td><td>23</td>
+<td>February</td><td>22</td>
 </tr><tr>
 <td>March</td><td>19</td>
 </tr><tr>
