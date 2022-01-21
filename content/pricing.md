@@ -63,7 +63,7 @@ Payment must be received by the 7th of every month. The last week of each month 
 send a digital bill via email with the lesson dates for the upcoming month as
 well as any book charges. For example, the September bill will be sent to each
 parent the last week of August. Payment will then be due by September 7th. I
-accept cash or checks. Most banks offer a bill pay service that will allow you
+accept cash, checks, or Zelle. Most banks offer a bill pay service that will allow you
 to send a check on the same date every month which is very convenient for all
 parties. I highly recommend using the auto check  service.
 
