@@ -16,7 +16,7 @@ I am currently offering in person or virtual lessons (online). There may be time
 
 ## Online Lessons
 
-At the time of your child’s lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student’s lesson when the next student dials in. I will always write down what is to be practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
+At the time of your child's lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student's lesson when the next student dials in. I will always write down what is to be practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
 
 ## Attendance
 
