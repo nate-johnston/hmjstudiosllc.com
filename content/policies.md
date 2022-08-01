@@ -9,6 +9,16 @@ title = "Lesson Policies"
 
 +++
 
+
+## Attendance
+
+Piano lessons are a commitment between student, family, and teacher. I will do my very best to work with you when there are conflicts but advanced notice is necessary. If you have a lesson time conflict, please let me know with <u>at least 24 hours notice.</u> Failure to notify me of a conflict (and then an absence) will result in a forfeiture of the lesson fee. If you or your child forget about your child’s lesson that lesson time will not be made up and the fee for that lesson will be forfeited.  I understand schedules change from season to season, and will communicate with the parents to find a time that works for both student and teacher. 
+
+<b>Please be sure to keep your child’s weekly piano lesson times in mind when you schedule appointments!</b>
+
+Please be timely! That being said, do not bring your student more than 5 minutes early (unless prearranged) and be prompt at the end of the lesson (again, unless prearranged).
+
+
 ## Lesson Formats
 
 I am currently offering in person or virtual lessons (online). There may be times that one format or another will work better. Please text me before lesson time if there is a need for a "location" change. 
@@ -16,20 +26,13 @@ I am currently offering in person or virtual lessons (online). There may be time
 
 ## Online Lessons
 
-At the time of your child's lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student's lesson when the next student dials in. I will always write down what is to be practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
 
-## Attendance
-
-At the beginning of every school year I send out a Google form asking for student availability, which I then use to set up the master schedule. I understand schedules change from season to season, and will communicate with the parents to find a time that works for each student. Be sure to keep your child’s weekly piano lesson times in mind when you schedule dental and medical appointments.
-
-Piano lessons are a commitment between student, family, and teacher. I will do my very best to work with you when there are conflicts but advanced notice is necessary. If you have a lesson time conflict, let me know with at least 24 hours notice. Failure to notify me of a conflict (and then an absence) will result in a forfeiture of the lesson fee. If you forget about your child’s lesson that lesson time will not be made up and the fee for that lesson will be forfeited.  I will do my best to find a makeup time if something unavoidable arises but there are very, very few opportunities in the weekly schedule.
-
-Please be timely! That being said, do not bring your student more than 5 minutes early (unless prearranged) and be prompt at the end of the lesson (again, unless prearranged).
+At the time of your child’s lesson, I will either dial them via FaceTime or be available via Zoom. I have my Zoom meetings set up to include a waiting room so that there is no interruption in a previous student’s lesson when the next student dials in. I will always write down what is to be practiced and send it to either the student (for older children) or the parent via email, text, or Facebook Messenger. In many cases (if time allows) I will ask the student to write in their assignment book at the end of the lesson and have them show me. Please help your child remember to keep a pencil on the piano for lesson time.
 
 
 ## The Exceptions
 
-Sick kids! I go by typical school rules: if they can’t go to school, they can’t come to lessons whether due to sickness or quarantine protocols. If your child is quarantining from school, they are also quarantining from piano lessons. Children must be symptom free for 24 hours in order to return to lessons. Do not bring a sick child to piano! Let me know as soon as you can and we will convert to the online option that week or reschedule altogether.
+Sick kids! I go by typical school rules: if they can’t go to school, they can’t come to lessons whether due to sickness or quarantine protocols. If your child is quarantining from school, they are also quarantining from piano lessons and we will move to an online format (depending on how they feel). Children must be symptom/fever free for 24 hours in order to return to lessons. Do not bring a sick child to piano! Let me know as soon as you can and we will convert to the online option that week.
 
 Emergencies happen. As with sick kids, if there is an emergency, please let me know as soon as you can and we will either work around it or work on rescheduling that week.
 
