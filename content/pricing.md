@@ -11,7 +11,7 @@ title = "Tuition and Fees"
 
 <br>
 
-I charge $95 per month per student for 30 minute lessons, $140 per month per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2022. I will keep track of the number of lessons each student has received and will provide the number via email each month. Some months may have 5 lessons, other months may have 2 lessons. The cost each month will always be $95 or $140 (depending on lesson length) with the possible exception of the summer months (see Summer Lessons below).
+I charge $100 per month per student for 30 minute lessons, $150 per month per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2022. I will keep track of the number of lessons each student has received and will provide the number via email each month. Some months may have 5 lessons, other months may have 2 lessons. The cost each month will always be $100 or $150 (depending on lesson length) with the possible exception of the summer months (see Summer Lessons below).
 
 <table border=0 cellpadding=2 cellspacing=1>
 <tr>
@@ -37,18 +37,17 @@ I charge $95 per month per student for 30 minute lessons, $140 per month per stu
 </tr><tr>
 <td> 
 
-Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $29 per lesson until the new term begins. No new students will begin in August.</td></table>
-
-If the student does not reach the set number of lessons by August 31, 2022, I
-will offer a refund or credit in the amount of $29 per lesson.
+Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $30/$45 per lesson until the new term begins. No new students will begin in August.
+If the student does not reach the set number of lessons by August 31, 2023, I will offer a refund or credit in the amount of $30/$45 per lesson.
+     
 
 <br>
 ## Summer Lessons
 
 Summer lessons are the exception to the rule. If your child has reached their set number of lessons (based on the month that they begin)
 and you would like to purchase more, I am happy to discuss adding
-lessons in the schedule for a $29 charge per lesson. This will be billed in
-addition to the $95 monthly lesson fee. The monthly plan must continue to be
+lessons in the schedule for a $30/$45 charge per lesson. This will be billed in
+addition to the $100/$150 monthly lesson fee. The monthly plan must continue to be
 paid through the end of August.
 
 <br>
@@ -63,32 +62,27 @@ Payment must be received by the 7th of every month. The last week of each month 
 send a digital bill via email with the lesson dates for the upcoming month as
 well as any book charges. For example, the September bill will be sent to each
 parent the last week of August. Payment will then be due by September 7th. I
-accept cash, checks, or Zelle. Most banks offer a bill pay service that will allow you
+accept cash, checks, Venmo, or Zelle. Most banks offer a bill pay service that will allow you
 to send a check on the same date every month which is very convenient for all
 parties. I highly recommend using the auto check  service.
 
 <br>
 ## Discontinuing Lessons
 
-If your child stops taking piano lessons during the term, the number of lessons
-taken will be totaled and multiplied by $29 per lesson, then compared against
-the amount paid. A refund will be issued or further payment will be needed. 
+If your child stops taking piano lessons during the term, the number of lessons taken will be totaled and multiplied by $30 per lesson, then compared against the amount paid. A refund will be issued or further payment will be needed.
 
 Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
-
-* 16 lessons x $29 per lesson = $464
-* 4 months x $95 per month = $380
-* The parent still owes $84.
+16 lessons x $30 per lesson = $480
+4 months x $100 per month = $400
+The parent still owes $80.
 
 Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
+22 lessons x $30 per lesson = $660
+7 months x $100 per month = $700
+The parent receives a $40 refund. 
 
-* 22 lessons x $29 per lesson = $638
-* 7 months x $95 per month =$665
-* The parent receives a $27 refund.
+Please note: 30 days notice is require to discontinue lessons. 
 <br>
 <br>
-Please allow thirty days notice for termination of lessons.
-<br>
-<br>
-<i>All pricing is effective September 1, 2021. Please email for any pricing questions before that time.</i>
+<i>All pricing is effective September 1, 2022. Please email for any pricing questions before that time.</i>
 <br>
