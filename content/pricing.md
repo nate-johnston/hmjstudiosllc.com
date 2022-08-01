@@ -76,6 +76,7 @@ Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
 <br>4 months x $100 per month = $400
 <br>The parent still owes $80.
 <br>
+<br>
 Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
 <br>22 lessons x $30 per lesson = $660
 <br>7 months x $100 per month = $700
