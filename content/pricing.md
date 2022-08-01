@@ -67,6 +67,11 @@ to send a check on the same date every month which is very convenient for all
 parties. I highly recommend using the auto check  service.
 
 <br>
+## Late Fees
+
+A $10 late fee will be charged if payment is received after the 7th of each month. 
+
+<br>
 ## Discontinuing Lessons
 
 If your child stops taking piano lessons during the term, the number of lessons taken will be totaled and multiplied by $30 per lesson, then compared against the amount paid. A refund will be issued or further payment will be needed.
