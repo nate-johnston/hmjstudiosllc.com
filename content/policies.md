@@ -23,16 +23,12 @@ Please be timely! Do not bring your student more than 5 minutes early (unless pr
 ## Lesson Formats
 
 Lessons are currently offered in person or online. There may be times when one format or another will work better due to illness, traffic, or weather. Please reach out before your child's lesson time if there is a need for a "location" change.
-
 <br>
 <br>
 <br>
-
 ## Online Lessons
 
 Zoom and Facetime are used for online lessons. Zoom meetings are set up to include a waiting room so that there is no interruption in a previous student’s lesson when the next student dials in. Assignments will be written down and sent to either the student (for older children) or the parent via email, text, or Facebook Messenger. The student may be asked to write in their assignment book at the end of the lesson. <i>Please help your child remember to keep a pencil on the piano for lesson time.</i>
-
-
 <br>
 <br>
 <br>
@@ -41,7 +37,6 @@ Zoom and Facetime are used for online lessons. Zoom meetings are set up to inclu
 Practicing the evening of or the day after a lesson is very important. Your child will get the maximum benefit from their lesson if they take the time to reproduce on their own what they learned in the lesson while it is still fresh in their minds. Each student should aim to practice 5 days a week, 10-20 minutes for the younger children and 30 minutes to one hour for older, more advanced students. Please find a regular time every day to practice so that it becomes part of their routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. 
 
 An assignment notebook will be provided for in-person students. Expectations and practice goals will be reviewed with the students during their lesson time. All books, notebooks, and extra handouts need to be available for every piano lesson unless previously discussed. Please provide a backpack, string bag, bin, or tote bag that is specifically tasked for piano music and materials.
-
 <br>
 <br>
 <br>
