@@ -13,8 +13,12 @@
 
                 <td width=60% valign=top id=text>
                     <!-- Center Data -->
-
+                  
+					{{ if eq "My Music Staff Login" .Title }}
+                    <center><u><h1>{{ .Title }}</h1></u></center>
+                    {{ else }}
                     <u><h1>{{ .Title }}</h1></u>
+                    {{ end }}
 
                     {{ .Content }}
                 </td>
