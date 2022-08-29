@@ -48,7 +48,7 @@ September 5 - Labor Day<br>
 November 17 or 18 - AVGE (personal)<br>
 November 23 - 25 - Thanksgiving<br>
 December 19 through January 2 - Winter Break<br>
-January 17 - Martin Luther King Jr. Day<br>
+January 16 - Martin Luther King Jr. Day<br>
 April 3-7 - Spring Break<br>
 May 29 - 31 - Memorial Day/Graduation activities<br>
 
