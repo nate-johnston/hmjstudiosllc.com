@@ -45,7 +45,7 @@ An assignment notebook will be provided for in-person students. Expectations and
 
 During the school year there are certain days the studio is closed due to national holidays or personal commitments. This includes, but is not limited to, the dates below.<br> 
 September 5 - Labor Day<br>
-November 17 or 18 - AVGE (personal)<br>
+November 18 - AVGE (personal)<br>
 November 23 - 25 - Thanksgiving<br>
 December 19 through January 2 - Winter Break<br>
 January 16 - Martin Luther King Jr. Day<br>
