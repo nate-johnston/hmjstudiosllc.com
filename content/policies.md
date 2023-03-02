@@ -50,6 +50,6 @@ November 23 - 25 - Thanksgiving<br>
 December 19 through January 2 - Winter Break<br>
 January 16 - Martin Luther King Jr. Day<br>
 April 3-7 - Spring Break<br>
-May 29 - 31 - Memorial Day/Graduation activities<br>
+May 29, 31 and June 2 - Memorial Day/Graduation activities<br>
 
 Please add these to your calendar.
