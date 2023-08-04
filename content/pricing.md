@@ -13,7 +13,7 @@ title = "Tuition and Payments"
 
 hmjStudios uses a monthly subscription fee structure. The charge for piano lessons is $100 monthly per student for 30 minute lessons, and $150 monthly per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2023 with equal monthly payments due. Some months may have 5 lessons, other months may have 2 lessons. 
 
-
+{{< rawhtml >}} 
 <table border=0 cellpadding=2 cellspacing=1>
 <tr>
 <td><b>Starting<br>Month</b></td>
@@ -34,9 +34,7 @@ hmjStudios uses a monthly subscription fee structure. The charge for piano lesso
 <td>March</td><td>19</td>
 </tr><tr>
 <td>April</td><td>15</td>
-</tr><tr>
-</tr><tr>
-<td> 
+</tr></table>
 
 Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $30/$45 per lesson until the new term begins. New students will not be accepted in August. If the student does not reach the set number of lessons by August 31, 2023, a refund or credit will be offered in the amount of $30/$45 per lesson.
 <br>
