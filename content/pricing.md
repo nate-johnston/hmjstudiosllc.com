@@ -35,6 +35,7 @@ hmjStudios uses a monthly subscription fee structure. The charge for piano lesso
 </tr><tr>
 <td>April</td><td>15</td>
 </tr></table>
+{{< /rawhtml >}} 
 
 Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $30/$45 per lesson until the new term begins. New students will not be accepted in August. If the student does not reach the set number of lessons by August 31, 2023, a refund or credit will be offered in the amount of $30/$45 per lesson.
 <br>
