@@ -5,6 +5,8 @@ weight = 99
 title = "Frequently Asked Questions"
 +++
 
+{{< rawhtml >}}
+
 <br>
 <i><b>Do you teach lessons online?</b></i><br>
 I offer in person as well as online lessons using either FaceTime or Zoom. Online teaching has its own positives and negatives but it is an excellent way to connect with my students when there is inclement weather, a transportation issue, or sickness. I am also willing to have this be the main method of teaching if it works best for the family. At the end of the day, it is all about making music accessible to as many people as possible.
@@ -37,3 +39,4 @@ Lessons are for 30 minutes one time per week. As students progress I may conside
 <i><b>Do I need to have a piano to start lessons?</b></i><br>
 Short answer - no. Longer answer - yes. Let me explain....
 Your child will need to have an instrument on which to practice as soon as possible. It is absolutely fine if your child has an electric keyboard (full sized keys, not a tiny keyboard) to start with. Depending on their progress, however, they will eventually need a fully weighted 88 key instrument with pedals. When that time comes I am happy to help find what best fits your family, whether that is a digital piano or the traditional accoustic piano.
+{{< /rawhtml >}}
