@@ -75,10 +75,10 @@ Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
 <br>The parent still owes $80.
 <br>
 <br>
-Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
-<br>22 lessons x $30 per lesson = $660
-<br>7 months x $100 per month = $700
-<br>The parent receives a $40 refund. 
+Example: Johnny stops taking lessons after 3 months having taken 8 lessons.
+<br>8 lessons x $30 per lesson = $240
+<br>3 months x $100 per month = $300
+<br>The parent receives a $60 refund. 
 
 Please note: 30 days notice is require to discontinue lessons. 
 <br>
