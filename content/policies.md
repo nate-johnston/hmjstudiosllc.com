@@ -9,9 +9,9 @@ title = "Lesson Policies"
 
 *If you have a lesson time conflict, 24 hours notice is required.*
 
-Failure to notify (and then an absence) will result in a forfeiture of the lesson fee. If you or your child forget about your child’s lesson that lesson time will not be made up and the fee for that lesson will be forfeited. If your child is absent from school due to sickness, then lessons will move to an online format. Children must be symptom/fever free for 24 hours in order to return to in-person lessons. Do not bring a sick child to piano lessons! In case of an emergency, please reach out as soon as you can.
+Failure to notify (and then an absence) will result in a forfeiture of the lesson fee. If you or your child forget about your child's lesson that lesson time will not be made up and the fee for that lesson will be forfeited. If your child is absent from school due to sickness, then lessons will move to an online format. Children must be symptom/fever free for 24 hours in order to return to in-person lessons. Do not bring a sick child to piano lessons! In case of an emergency, please reach out as soon as you can.
 
-**Be sure to keep your child’s weekly piano lesson times in mind when you schedule appointments!**
+**Be sure to keep your child's weekly piano lesson times in mind when you schedule appointments!**
 
 Please be timely! Do not bring your student more than 5 minutes early (unless prearranged) - if the red door is open, please feel free to enter. If there is another lesson in session, enter quietly and respectfully. Please be prompt at the end of the lesson as well. Once your lesson time has ended, teacher focus is then on the next student. If you are regularly late to pick up your child a different lesson time can be arranged.
 
@@ -21,7 +21,7 @@ Lessons are currently offered in person or online. There may be times when one f
 
 ## Online Lessons
 
-Zoom and Facetime are used for online lessons. Zoom meetings are set up to include a waiting room so that there is no interruption in a previous student’s lesson when the next student dials in. Assignments will be written down and sent to either the student (for older children) or the parent via email, text, or Facebook Messenger. The student may be asked to write in their assignment book at the end of the lesson. *Please help your child remember to keep a pencil on the piano for lesson time.*
+Zoom and Facetime are used for online lessons. Zoom meetings are set up to include a waiting room so that there is no interruption in a previous student's lesson when the next student dials in. Assignments will be written down and sent to either the student (for older children) or the parent via email, text, or Facebook Messenger. The student may be asked to write in their assignment book at the end of the lesson. *Please help your child remember to keep a pencil on the piano for lesson time.*
 
 ## Practice and Supplies
 
