@@ -43,13 +43,4 @@ An assignment notebook will be provided for in-person students. Expectations and
 
 ## Non-Teaching Days
 
-During the school year there are certain days the studio is closed due to national holidays or personal commitments. This includes, but is not limited to, the dates below.<br> 
-September 5 - Labor Day<br>
-November 18 - AVGE (personal)<br>
-November 23 - 25 - Thanksgiving<br>
-December 19 through January 2 - Winter Break<br>
-January 16 - Martin Luther King Jr. Day<br>
-April 3-7 - Spring Break<br>
-May 29, 31 and June 2 - Memorial Day/Graduation activities<br>
-
-Please add these to your calendar.
+During the school year there are certain days the studio is closed due to national holidays or personal commitments. 
