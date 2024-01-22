@@ -48,7 +48,7 @@ Parents are also responsible for either purchasing or reimbursing any new book/m
 
 ## Payment
 
-*Payment is due by the 1st of eack month.* Digital bills will be sent the last week of every month. For example, the September bill will be sent to each parent the last week of August. Payment will then be due by September 1st. Cash, checks, Venmo, or Zelle are all accepted. Most banks offer a bill pay service that will allow you to schedule a payment on the same date every month. If you are using a mail-based service, please allow enough time for the payment to arrive by the 7th!
+*Payment is due by the 1st of each month.* Digital bills will be sent the last week of every month. For example, the September bill will be sent to each parent the last week of August. Payment will then be due by September 1st. Cash, checks, Venmo, or Zelle are all accepted. Most banks offer a bill pay service that will allow you to schedule a payment on the same date every month. If you are using a mail-based service, please allow enough time for the payment to arrive by the 7th!
 
 
 ## Late Fees
