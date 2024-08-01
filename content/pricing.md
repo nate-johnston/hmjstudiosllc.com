@@ -7,7 +7,8 @@ title = "Tuition and Payments"
 
 ## Tuition
 
-hmjStudios uses a monthly subscription fee structure. The charge for piano lessons is $100 monthly per student for 30 minute lessons, and $150 monthly per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2024 with equal monthly payments due. Some months may have 5 lessons, other months may have 2 lessons. 
+hmjStudios uses a monthly subscription fee structure. The charge for piano lessons is $110 monthly per student for 30 minute lessons, and $165 monthly per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2024 with equal monthly payments due. Some months may have 5 lessons, other months may have 2 lessons. 
+
 
 {{< rawhtml >}} 
 <table border=0 cellpadding=2 cellspacing=1>
@@ -33,17 +34,18 @@ hmjStudios uses a monthly subscription fee structure. The charge for piano lesso
 </tr></table>
 {{< /rawhtml >}} 
 
-Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $30/$45 per lesson until the new term begins. New students will not be accepted in August. If the student does not reach the set number of lessons by August 31, 2024, a refund or credit will be offered in the amount of $30/$45 per lesson.
+Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $33/$49.50 per lesson until the new term begins. New students will not be accepted in August. If the student does not reach the set number of lessons by August 31, 2025, a refund or credit will be offered in the amount of $33/$49.50 per lesson.
+
 
 
 ## Summer Lessons
 
-If your child has reached their set number of lessons and you would like to purchase more, lessons can be added to the schedule for a $30/$45 charge per lesson. This will be billed in addition to the $100/$150 monthly lesson fee. The monthly plan must continue to be paid through the end of August.
+If your child has reached their set number of lessons and you would like to purchase more, lessons can be added to the schedule for a $33/$49.50 charge per lesson. This will be billed in addition to the $100/$150 monthly lesson fee. The monthly plan must continue to be paid through the end of August.
 
 
 ## Materials
 
-Parents are also responsible for either purchasing or reimbursing any new book/music fees. New book purchases will be discussed beforehand. Where possible, Amazon links for the proper books will be sent to the parents. New books are needed approximately every 4-6 months in the beginning, and cost about $20-$25 each time. With the more advanced students the frequency of book purchases decreases to about once a year but is slightly more expensive at approximately $25-$30. If your child has an older sibling who has already begun piano lessons their books may be reused if they are at the appropriate age level, with the exception of the Theory book, which must be purchased new for every student.
+Parents are also responsible for either purchasing or reimbursing any new book/music fees. New book purchases will be discussed beforehand. Where possible, Amazon links for the proper books will be sent to the parents. New books are needed approximately every 4-6 months in the beginning, and cost about $25-$30 each time. With the more advanced students the frequency of book purchases decreases to about once a year but is slightly more expensive at approximately $30-$35. If your child has an older sibling who has already begun piano lessons their books may be reused if they are at the appropriate age level, with the exception of the Theory book, which must be purchased new for every student.
 
 
 ## Payment
@@ -56,21 +58,22 @@ Parents are also responsible for either purchasing or reimbursing any new book/m
 A $10 late fee will be charged if payment is received after the 7th of each month. 
 
 
+
 ## Discontinuing Lessons
 
-If your child stops taking piano lessons during the term, the number of lessons taken will be totaled and multiplied by $30 per lesson, then compared against the amount paid. A refund will be issued or further payment will be needed.
+If your child stops taking piano lessons during the term, the number of lessons taken will be totaled and multiplied by $33/$49.50 per lesson, then compared against the amount paid. A refund will be issued or further payment will be needed.
 
 Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
-<br>16 lessons x $30 per lesson = $480
-<br>4 months x $100 per month = $400
-<br>The parent still owes $80.
+<br>16 lessons x $33 per lesson = $528
+<br>4 months x $100 per month = $440
+<br>The parent still owes $88.
 <br>
 <br>
-Example: Johnny stops taking lessons after 3 months having taken 8 lessons.
-<br>8 lessons x $30 per lesson = $240
-<br>3 months x $100 per month = $300
-<br>The parent receives a $60 refund. 
+Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
+<br>22 lessons x $33 per lesson = $726
+<br>7 months x $110 per month = $770
+<br>The parent receives a $44 refund. 
 
 Please note: 30 days notice is require to discontinue lessons. 
 
-*All pricing is effective September 1, 2022.*
+*All pricing is effective September 1, 2024.*
