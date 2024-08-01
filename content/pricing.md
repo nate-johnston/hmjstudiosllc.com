@@ -64,9 +64,9 @@ A $10 late fee will be charged if payment is received after the 7th of each mont
 If your child stops taking piano lessons during the term, the number of lessons taken will be totaled and multiplied by $33/$49.50 per lesson, then compared against the amount paid. A refund will be issued or further payment will be needed.
 
 Example: Suzie stops taking lesson after 4 months having taken 16 lessons.
-<br>16 lessons x $33 per lesson = $528
-<br>4 months x $100 per month = $440
-<br>The parent still owes $88.
+<br><br>16 lessons x $33 per lesson = $528
+<br><br>4 months x $100 per month = $440
+<br><br>The parent still owes $88.
 <br>
 <br>
 Example: Johnny stops taking lessons after 7 months having taken 22 lessons.
