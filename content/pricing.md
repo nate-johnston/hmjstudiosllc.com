@@ -40,7 +40,7 @@ Students beginning in May, June, or July will be exempt from the subscription po
 
 ## Summer Lessons
 
-If your child has reached their set number of lessons and you would like to purchase more, lessons can be added to the schedule for a $33/$49.50 charge per lesson. This will be billed in addition to the $100/$150 monthly lesson fee. The monthly plan must continue to be paid through the end of August.
+If your child has reached their set number of lessons and you would like to purchase more, lessons can be added to the schedule for a $33/$49.50 charge per lesson. This will be billed in addition to the $110/$165 monthly lesson fee. The monthly plan must continue to be paid through the end of August.
 
 
 ## Materials
