@@ -14,7 +14,7 @@ Attendance at piano is just like attendance at any other activity - the more con
 
 If your child is absent from school due to sickness but feels well enough to meet, then lessons will move to an online format. Children must be symptom/fever free for 24 hours in order to return to in-person lessons. Do not bring a sick child to piano lessons! In case of an emergency, please reach out as soon as you can. Any teacher sickness will move to an online format if possible or will be completely rescheduled.
 
-My Music Staff is accessible to all families. This is a great way to see your student's lessons, cancel when necessary, and find a new lesson time. Makeup times are listed about a month in advance.
+My Music Staff, the planning and billing system, is accessible to all families. This is a great way to see your student's lessons, log practice, access resources, and reschedule lessons when necessary. The MMS system also allows families to sync their schedule with the studio calendar.
 
 **Be sure to keep your child's weekly piano lesson times in mind when you schedule appointments!**
 
@@ -40,9 +40,9 @@ An assignment notebook will be provided for in-person students. Expectations and
 ## Non-Teaching Days
 
 During the school year there are certain days the studio is closed due to national holidays or personal commitments. This includes, but is not limited to, the dates below. 
-<br>September 2 - Labor Day
-<br>November 27-29 - Thanksgiving
-<br>December 18 through January 3 - Winter Break
+<br>September 1 - Labor Day
+<br>November 26-28 - Thanksgiving
+<br>December 18 through January 4 - Winter Break
 <br>Spring Break - TBD
 <br>May 26 - Memorial Day
 
