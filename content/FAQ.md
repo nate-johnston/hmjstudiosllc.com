@@ -13,12 +13,11 @@ I offer in person as well as online lessons using either FaceTime or Zoom. Onlin
 <br>
 <br>
 <i><b>Do you teach adults?</b></i><br>
-While I would be happy to share music with everyone, my studio is more geared toward children than adults.                   
+While I primarily teach children, I have begun teaching a few adults.                   
 <br>
 <br>
 <i><b>Do you travel teach? Will you drive to my house?</b></i><br>
-I do not travel to my students since I have an enormous amount of music, games, and materials available in my studio. When I see that a particular way of introducing a subject isn't working, I can easily pull out something else to better reach the student. Until I start driving an RV and can bring
- everything with me I am not set up to teach away from my studio. 
+I do not travel to my students since I have an enormous amount of music, games, and materials available in my studio. When I see that a particular way of introducing a subject isn't working, I can easily pull out something else to better reach the student. Until I start driving an RV and can bring everything with me I am not set up to teach away from my studio. 
 <br>
 <br>
 <i><b>Do you teach siblings?</b></i><br>
@@ -29,7 +28,7 @@ Of course! I even have an extra digital piano in my front room for one child to 
 Practice is incredibly important. I would like every student to practice at least 4-5 days a week, 15-20 minutes for the younger children and 30 minutes to one hour for older, more advanced students. I encourage students to find a regular time every day to practice so that it becomes part of their routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. 
 <br>
 <br>
-<i><b>Do you take PayPal, ApplePay or Vimeo?</b></i><br>
+<i><b>Do you take PayPal, ApplePay or Venmo?</b></i><br>
 I accept cash, checks, Venmo, or Zelle, and I highly encourage my families to look into their bank's bill pay or auto payment abilities. Payment is <u>due</u> by the 7th of every month.
 <br>
 <br>
