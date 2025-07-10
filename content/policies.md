@@ -44,6 +44,6 @@ During the school year there are certain days the studio is closed due to nation
 <br>November 26-28 - Thanksgiving
 <br>December 18 through January 4 - Winter Break
 <br>Spring Break - TBD
-<br>May 26 - Memorial Day
+<br>May 25 - Memorial Day
 
 School holidays are often used for makeup lessons. The LCPS/FCPS calendars are not strictly followed, please check My Music Staff to see if your student has a lesson on a particular day.
