@@ -21,9 +21,10 @@ https://wunderkeys.com/piano-books-music/
 
 
 ## Sheet Music for Fun
-I use SheetMusicDirect.com for single songs ( https://www.sheetmusicdirect.com/en-US/ )
+I use SheetMusicDirect.com for single songs<br>
+https://www.sheetmusicdirect.com/en-US/ 
 
-MuseScore is useful for crowdsourced extra music
+MuseScore is useful for crowdsourced extra music <br>
 www.musescore.com
 
 Locally, I go to Music and Arts either in Sterling or in Leesburg. They are very knowledgable, kind, and willing to go the extra mile to make sure you have what you need without being pushy. I favor them over other local shops.
