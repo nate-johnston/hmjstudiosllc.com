@@ -10,15 +10,17 @@ title = "Lesson Policies"
 *If you have a lesson time conflict, notice must be given by 5pm the previous day.*
 
 
-Attendance at piano is just like attendance at any other activity - the more consistently the student attends, the better the achievement!  The schedule is always very tight, and makeups can be challenging to schedule. If lessons are missed, unless prearranged, the missed lesson will count as one of the subscription lessons. 
+Attendance at piano is just like attendance at any other activity - the more consistently the student attends, the better the achievement! If lessons are missed, unless prearranged, the missed lesson will count as one of the subscription lessons. 
+
+<b>Make-up lessons must be rescheduled within 24 hours of the cancelled normal time slot. </b>
 
 If your child is absent from school due to sickness but feels well enough to meet, then lessons will move to an online format. Children must be symptom/fever free for 24 hours in order to return to in-person lessons. Do not bring a sick child to piano lessons! In case of an emergency, please reach out as soon as you can. Any teacher sickness will move to an online format if possible or will be completely rescheduled.
 
-My Music Staff, the planning and billing system, is accessible to all families. This is a great way to see your student's lessons, log practice, access resources, and reschedule lessons when necessary. The MMS system also allows families to sync their schedule with the studio calendar.
+My Music Staff, the planning and billing system, is accessible to all families. This is a great way to see your student's lessons, log practice, access resources, and reschedule lessons when necessary. The MMS system also allows families to sync their schedule with the studio calendar. When synced, changes made to to the master schedule appear on your personal schedule
 
 **Be sure to keep your child's weekly piano lesson times in mind when you schedule appointments!**
 
-Please be timely! Do not bring your student more than 5 minutes early (unless prearranged) - if the red door is open, please feel free to enter, but no earlier than that 5 minute mark. If there is another lesson in session, enter quietly and respectfully. Please be prompt at the end of the lesson as well. Once your lesson time has ended, teacher focus is then on the next student. If you are regularly late to pick up your child a different lesson time can be arranged.
+Please be timely! If the red door is open, please feel free to enter, but no earlier than 5 minutes before the scheduled lesson time. If there is another lesson in session, enter quietly and respectfully. Please be prompt at the end of the lesson as well. If you are regularly late to pick up your child a different lesson time can be arranged.
 
 ## Lesson Formats
 
