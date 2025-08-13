@@ -7,7 +7,7 @@ title = "Tuition and Payments"
 
 ## Tuition
 
-hmjStudios uses a monthly subscription fee structure. The charge for piano lessons is $110 monthly per student for 30 minute lessons, and $165 monthly per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2025 with equal monthly payments due. Some months may have 5 lessons, other months may have 2 lessons. 
+hmjStudios uses a monthly subscription fee structure. The charge for piano lessons is $110 monthly per student for 30 minute lessons, and $165 monthly per student for 45 minute lessons. This entitles each student to a set number of lessons based on the starting month and ending August 31, 2026 with equal monthly payments due. Some months may have 5 lessons, other months may have 2 lessons. 
 
 
 {{< rawhtml >}} 
@@ -34,7 +34,7 @@ hmjStudios uses a monthly subscription fee structure. The charge for piano lesso
 </tr></table>
 {{< /rawhtml >}} 
 
-Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $33/$49.50 per lesson until the new term begins. New students will not be accepted in August. If the student does not reach the set number of lessons by August 31, 2025, a refund or credit will be offered in the amount of $33/$49.50 per lesson.
+Students beginning in May, June, or July will be exempt from the subscription policy and will instead be charged $33/$49.50 per lesson until the new term begins. New students will not be accepted in August. If the student does not reach the set number of lessons by August 31, 2026, a refund or credit will be offered in the amount of $33/$49.50 per lesson.
 
 
 
@@ -50,12 +50,12 @@ Parents are also responsible for either purchasing or reimbursing any new book/m
 
 ## Payment
 
-*Payment is due by the 1st of each month.* Digital bills will be sent the last week of every month. For example, the September bill will be sent to each parent the last week of August. Payment will then be due by September 1st. Cash, checks, Venmo, or Zelle are all accepted. Most banks offer a bill pay service that will allow you to schedule a payment on the same date every month. If you are using a mail-based service, please allow enough time for the payment to arrive by the 7th!
+*Payment is due by the 1st of each month.* Digital bills will be sent the last week of every month. For example, the September bill will be sent to each parent the last week of August. Payment will then be due by September 1st. Cash, checks, Venmo, or Zelle are all accepted. Most banks offer a bill pay service that will allow you to schedule a payment on the same date every month. 
 
 
 ## Late Fees
 
-A $10 late fee will be charged if payment is received after the 7th of each month. 
+A $10 late fee will be charged if payment is received after the 5th of each month. 
 
 
 
