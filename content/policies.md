@@ -46,4 +46,4 @@ During the school year there are certain days the studio is closed due to nation
 <br>Spring Break - TBD
 <br>May 25 - Memorial Day
 
-School holidays are often used for makeup lessons. The LCPS/FCPS calendars are not strictly followed, please check My Music Staff to see if your student has a lesson on a particular day.
+School holidays are regular lesson days, and often can be used for makeup lessons. The LCPS/FCPS calendars are not strictly followed, please check My Music Staff to see if your student has a lesson on a particular day.
