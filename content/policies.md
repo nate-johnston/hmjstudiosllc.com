@@ -7,20 +7,19 @@ title = "Lesson Policies"
 
 ## Attendance and Scheduling
 
-*If you have a lesson time conflict, notice must be given by 5pm the previous day.*
-
-
 Attendance at piano is just like attendance at any other activity - the more consistently the student attends, the better the achievement! If lessons are missed, unless prearranged, the missed lesson will count as one of the subscription lessons. 
 
-<b>Make-up lessons must be rescheduled within 24 hours of the cancelled normal time slot. </b>
+**If you have a lesson time conflict, notice must be given by 5pm the previous day.** If you then wish to reschedule the cancelled lesson, please do so within 24 hours of the original lesson time, or the lesson will be forfeited.
+
+My Music Staff, the planning and billing system, is accessible to all families. This is a great way to see your student's lessons, log practice, access resources, and reschedule lessons when necessary. The MMS system can be synced to Apple, Google, or Outlook (both online and desktop). When synced, changes made to to the master schedule appear on your personal schedule. **All scheduling is now done through the My Music Staff system.** 
 
 If your child is absent from school due to sickness but feels well enough to meet, then lessons will move to an online format. Children must be symptom/fever free for 24 hours in order to return to in-person lessons. Do not bring a sick child to piano lessons! In case of an emergency, please reach out as soon as you can. Any teacher sickness will move to an online format if possible or will be completely rescheduled.
 
-My Music Staff, the planning and billing system, is accessible to all families. This is a great way to see your student's lessons, log practice, access resources, and reschedule lessons when necessary. The MMS system also allows families to sync their schedule with the studio calendar. When synced, changes made to to the master schedule appear on your personal schedule
-
 **Be sure to keep your child's weekly piano lesson times in mind when you schedule appointments!**
 
-Please be timely! If the red door is open, please feel free to enter, but no earlier than 5 minutes before the scheduled lesson time. If there is another lesson in session, enter quietly and respectfully. Please be prompt at the end of the lesson as well. If you are regularly late to pick up your child a different lesson time can be arranged.
+Please be timely! If the red door is open, feel free to enter, but no earlier than 5 minutes before the scheduled lesson time. If there is another lesson in session, enter quietly and respectfully. Please be prompt at the end of the lesson as well. If you are regularly late to pick up your child a different lesson time can be arranged.
+
+
 
 ## Lesson Formats
 
@@ -29,9 +28,10 @@ Lessons are currently offered in person or online. There may be times when one f
 Facetime is used for online lessons. The student may be asked to write in their assignment book at the end of the lesson as well. Notes will also be included in the My Music Staff system. *Please help your child remember to keep a pencil on the piano for lesson time.*
 
 
+
 ## Practice and Supplies
 
-Practicing the evening of, or the day after, a lesson is very important. Your child will get the maximum benefit from their lesson if they take the time to reproduce on their own what they learned in the lesson while it is still fresh in their minds. Each student should aim to practice 5 days a week, 10-20 minutes for the younger children and 30 minutes to one hour for older, more advanced students. Please find a regular time every day to practice so that it becomes part of their routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. 
+Practicing the evening of, or the day after, a lesson is very important. Your child will get the maximum benefit from their lesson if they take the time to reproduce on their own what they learned in the lesson while it is still fresh in their minds. Each student should aim to practice 4-5 days a week, 10-20 minutes for the younger children and 30 minutes to one hour for older, more advanced students. Please find a regular time every day to practice so that it becomes part of the family routine. Is your child an early bird? Encourage them to practice before school. Do they need a break from school in the afternoons? Have them practice, it will help stimulate another part of their brain. 
 
 Please have your child use the practice log in My Music Staff. A login has been provided to each family and a  new login can be sent if necessary. Your password and username are never shared with anyone other than you. Using the practice log helps with lesson planning and is a great way for the students to communicate between lessons. This is a wonderful tool, please help your student access it!
 
@@ -45,7 +45,7 @@ During the school year there are certain days the studio is closed due to nation
 <br>September 1 - Labor Day
 <br>November 26-28 - Thanksgiving
 <br>December 18 through January 4, 2026 - Winter Break
-<br>Spring Break - March 29-April 5, 2026
+<br>Spring Break - March 29 - April 5, 2026
 <br>May 25, 2026 - Memorial Day
 
 School holidays are regular lesson days, and often can be used for makeup lessons. The LCPS/FCPS calendars are not strictly followed, please check My Music Staff to see if your student has a lesson on a particular day.
