@@ -42,10 +42,13 @@ An assignment notebook will be provided for in-person students. Expectations and
 ## Non-Teaching Days
 
 During the school year there are certain days the studio is closed due to national holidays or personal commitments. This includes, but is not limited to, the dates below. 
+
+{{< rawhtml >}}
 <br>September 1 - Labor Day
 <br>November 26-28 - Thanksgiving
 <br>December 18 through January 4, 2026 - Winter Break
 <br>Spring Break - March 29 - April 5, 2026
 <br>May 25, 2026 - Memorial Day
+{{< /rawhtml >}}
 
 School holidays are regular lesson days, and often can be used for makeup lessons. The LCPS/FCPS calendars are not strictly followed, please check My Music Staff to see if your student has a lesson on a particular day.
