@@ -79,6 +79,8 @@ jobs:
           restore-keys:
             hugo-
       - name: Build the site
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         run: |
           hugo build \
             --gc \
