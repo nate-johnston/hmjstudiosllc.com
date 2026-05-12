@@ -9,9 +9,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-caches:
-  images:
-    dir: :cacheDir/images
 concurrency:
   group: pages
   cancel-in-progress: false
